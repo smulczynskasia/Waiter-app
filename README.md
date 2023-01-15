@@ -1,2 +1,1 @@
-
-https://waiter-app.oleole912.repl.co
+https://Waiter-app.smulczynskasia.repl.co
